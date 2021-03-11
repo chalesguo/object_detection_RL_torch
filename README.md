@@ -1,2 +1,3 @@
-# object_detection_RL_torch
-Image object detection based on RL. Using torch.
+# pytorch VAE
+
+变分自编码器研究
